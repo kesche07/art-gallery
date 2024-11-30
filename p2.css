@@ -1,0 +1,35 @@
+body{
+    background-color:#743014;
+
+}
+div{
+    background-color: #E8d1a7;
+    position: absolute;
+    width:500px;
+    height: 420px;
+    margin-top:1%;
+    margin-left: 35%;
+}
+input[type="text"]{
+    width: 80%;
+    height:10%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    text-align: center;
+    }
+h2{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:#442d1c;
+}
+h3{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:#442d1c;
+}
+input[type="submit"]{
+    width: 30%;
+    height:7%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    text-align: center;
+    background-color: whitesmoke;
+    }
